@@ -25,8 +25,6 @@ function positiveSum(arr) {
 
     return sum;
 }
-
-
 // ---------------------
 // Solution 2 (filter + reduce):
 // ---------------------
