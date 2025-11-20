@@ -12,7 +12,7 @@
 // ---------------------
 // Solution 1 (String + split + reverse + map):
 // ---------------------
-function digitize(n) {
+function digitize(n) { 
     return String(n).split("").reverse().map(Number);
 }
 
@@ -35,5 +35,5 @@ function digitize(n) {
 // ---------------------
 // Test
 // ---------------------
-console.log(digitize(35231)); // [1, 3, 2, 5, 3]
+console.log(digitize(35231)); // [ 1, 3, 2, 5, 3 ]
 console.log(digitize(0));     // [0]
