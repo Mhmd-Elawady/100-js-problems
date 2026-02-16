@@ -1,1 +1,0 @@
-git commit -m "Implement special greeting for Johnny"
