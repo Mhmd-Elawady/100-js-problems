@@ -59,3 +59,13 @@ console.log(
 
 console.log(countPositivesSumNegatives([]));   // []
 console.log(countPositivesSumNegatives(null)); // []
+
+
+
+
+
+
+
+
+
+
